@@ -10,4 +10,4 @@ Vídeo demonstrativo:
 https://youtu.be/Kpb7pMcr9YE
 
 Relatório técnico:
-docs/relatorio_final.md
+https://github.com/Caiobar10/SPRINT-4---Jorge-Bluadiagnostics-/blob/main/docs/relatorio_final.md
