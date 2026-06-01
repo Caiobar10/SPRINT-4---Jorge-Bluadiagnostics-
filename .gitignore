@@ -1,0 +1,28 @@
+# Ambiente
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dados gerados
+output/
+data/vector_store/
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Segurança — NUNCA commitar
+*.key
+*.pem
+secrets.txt

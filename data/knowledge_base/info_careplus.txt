@@ -1,0 +1,39 @@
+INFORMAÇÕES — REDE CARE PLUS
+ID: info_careplus
+Classificação: INFORMATIVO
+
+SOBRE A CARE PLUS:
+- Empresa brasileira fundada há 30+ anos
+- Parte do grupo Bupa Internacional
+- 600.000+ beneficiários em São Paulo
+- 8 clínicas próprias
+- Rede credenciada: +28.000 unidades (clínicas, hospitais, laboratórios)
+
+SERVIÇOS DISPONÍVEIS:
+- Telemedicina: App Blua — consultas em até 8 especialidades, disponível 24h
+- TytoCare: dispositivo de exame físico remoto para consulta domiciliar
+- Chatbot de triagem: disponível 24/7 (este sistema)
+- Rede credenciada em todo o Brasil
+
+COMO AGENDAR:
+1. App Blua (iOS/Android): agendamento em até 2h
+2. Portal careplus.com.br: agendamento online
+3. Central de atendimento: disponível 24h (consulte seu cartão)
+4. WhatsApp: disponível para empresas conveniadas
+
+ESPECIALIDADES PELA TELEMEDICINA:
+- Clínica Geral
+- Pediatria
+- Dermatologia
+- Ginecologia
+- Psicologia
+- Nutrição
+- Fisioterapia
+- Cardiologia
+
+CONTEXTO LGPD:
+Todos os dados de saúde são sensíveis (art. 5º, II da LGPD).
+Armazenamento local com Ollama garante que dados não saiam da infraestrutura.
+
+TAGS: careplus, plano, telemedicina, blua, agendamento, bupa
+RISCO: informativo

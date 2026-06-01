@@ -1,0 +1,26 @@
+PROTOCOLO CLÍNICO CARE PLUS — SINTOMAS NEUROLÓGICOS
+ID: proto_neurologico
+Classificação: VARIÁVEL — AVC é EMERGÊNCIA IMEDIATA
+
+EMERGÊNCIA NEUROLÓGICA — Chamar SAMU 192 imediatamente:
+- AVC: Face caída + Braço fraco + Fala alterada (teste FAST)
+- Crise convulsiva pela primeira vez ou duração > 5 minutos
+- Cefaleia "em trovoada" (a pior dor de cabeça da vida, início súbito)
+- Perda de consciência súbita sem causa aparente
+- Confusão mental aguda em idosos
+
+PROTOCOLO FAST PARA AVC:
+F — Face: Peça para sorrir. Um lado caiu?
+A — Arm: Levante os dois braços. Um cai?
+S — Speech: Repita uma frase. A fala está arrastada?
+T — Time: Tempo é essencial. Ligue SAMU 192 AGORA.
+
+CEFALEIA:
+- Primária (tensional, enxaqueca): geralmente responde a analgésicos
+- Secundária (meningite, AVC, tumor): requer investigação urgente
+
+JANELA TERAPÊUTICA AVC ISQUÊMICO: 4,5 horas para trombólise
+— CADA MINUTO CONTA —
+
+TAGS: neurológico, AVC, convulsão, cefaleia, desmaio, confusão, FAST
+RISCO: alto

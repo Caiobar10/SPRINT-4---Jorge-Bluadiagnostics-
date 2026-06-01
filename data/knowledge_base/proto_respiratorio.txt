@@ -1,0 +1,37 @@
+PROTOCOLO CLÍNICO CARE PLUS — SINTOMAS RESPIRATÓRIOS
+ID: proto_respiratorio
+Classificação: VARIÁVEL conforme gravidade
+
+SINAIS DE ALERTA RESPIRATÓRIO (emergência):
+- Frequência respiratória > 30 irpm ou < 10 irpm
+- Saturação O2 < 92% em ar ambiente
+- Uso de musculatura acessória
+- Cianose central (lábios azulados)
+- Estridor laríngeo
+- Incapacidade de falar frases completas
+
+TRIAGEM POR CONDIÇÃO:
+URGENTE (PS imediato):
+- Broncoespasmo grave não responsivo a broncodilatador
+- Pneumonia com comprometimento de todo o lobo
+- Derrame pleural volumoso
+- Exacerbação grave de DPOC
+
+MODERADO (UBS em 24h):
+- Tosse produtiva > 3 semanas
+- Expectoração esverdeada com febre
+- Piora progressiva da dispneia em asmáticos controlados
+
+BAIXO RISCO (autocuidado + retorno se piora):
+- Tosse seca pós-viral
+- Rinorreia anterior com tosse
+- Laringite viral
+
+ORIENTAÇÕES PARA PACIENTES ASMÁTICOS:
+1. Usar broncodilatador de resgate conforme prescrito
+2. Manter posição semi-sentada
+3. Evitar esforço físico durante crise
+4. Procurar PS se não melhorar em 20 minutos
+
+TAGS: respiratório, tosse, falta de ar, dispneia, asma, satO2
+RISCO: variavel

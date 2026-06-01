@@ -1,0 +1,14 @@
+Caio Moda Barbieri - RM: 566747
+Laura Stephanie Vasquez Oliveira - RM: 567277
+Luis Roberto Lanzoni Kihara Júnior - RM: 567406
+Mark Lima Leal - RM: 566760
+Sofia Fernandes de Lima Oliveira - RM: 567824
+
+Repositório GitHub (Sprint 4):
+
+
+Vídeo demonstrativo (YouTube - não listado):
+[PREENCHER APÓS GRAVAR O VÍDEO]
+
+Relatório técnico:
+docs/relatorio_final.md

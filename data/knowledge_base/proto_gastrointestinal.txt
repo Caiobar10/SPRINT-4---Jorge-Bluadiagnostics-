@@ -1,0 +1,27 @@
+PROTOCOLO CLÍNICO CARE PLUS — SINTOMAS GASTROINTESTINAIS
+ID: proto_gastrointestinal
+Classificação: VARIÁVEL
+
+SINAIS DE ALARME (PS urgente):
+- Sangramento digestivo (vômito com sangue, fezes escuras/melena)
+- Dor abdominal intensa, contínua, associada a rigidez de parede
+- Distensão abdominal progressiva com ausência de evacuações > 48h
+- Icterícia progressiva com dor abdominal
+
+DIARREIA:
+- Aguda (< 14 dias): geralmente autolimitada
+- Sinais de desidratação: hidratação oral imediata
+- Critérios de internação: diarreia > 10x/dia, febre > 38.5°C, sangue nas fezes
+
+SOLUÇÃO DE HIDRATAÇÃO ORAL (OMS):
+- 1L de água + 1 colher de sopa de açúcar + 1 pitada de sal
+- Ou: Pedialyte/Gatorade diluído
+- Oferecer 200ml após cada evacuação líquida
+
+VÔMITO:
+- Dieta líquida por 6-8h, depois introduzir sólidos gradualmente
+- Hidratação em pequenos goles frequentes
+- Sinais de alarme: sangue, bílis esverdeada, vômitos > 24h
+
+TAGS: diarreia, vômito, dor abdominal, gastrointestinal, náusea, hidratação
+RISCO: variavel

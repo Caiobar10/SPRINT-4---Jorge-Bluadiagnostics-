@@ -1,0 +1,32 @@
+PROTOCOLO CLÍNICO CARE PLUS — FEBRE EM ADULTOS
+ID: proto_febre
+Classificação: AMARELO a LARANJA conforme temperatura
+
+DEFINIÇÃO: Temperatura axilar > 37.5°C ou temperatura retal > 38°C
+
+CLASSIFICAÇÃO POR TEMPERATURA:
+- 37.5°C - 38.5°C: Febre baixa (subfebril) — monitorar
+- 38.5°C - 39.5°C: Febre moderada — investigar causa
+- > 39.5°C: Febre alta — avaliar urgência
+- > 40°C: Febre muito alta — atenção imediata
+
+SINAIS DE ALARME (encaminhar ao PS):
+- Febre > 40°C sem resposta a antitérmicos
+- Febre associada a rigidez de nuca, petéquias ou confusão mental
+- Febre em imunossuprimidos, idosos > 80 anos ou neonatos
+- Febre persistente > 7 dias sem diagnóstico
+
+ORIENTAÇÕES GERAIS:
+1. Hidratação adequada (2-3L de água/dia)
+2. Repouso relativo
+3. Antitérmicos: Paracetamol 500-1000mg a cada 6h (máx 4g/dia) — orientação geral
+4. Monitorar temperatura a cada 4 horas
+5. Retornar se febre > 3 dias ou surgimento de novos sintomas
+
+CAUSAS MAIS COMUNS:
+- Infecções respiratórias virais (60-70% dos casos)
+- Infecções urinárias
+- Infecções gastrointestinais
+
+TAGS: febre, temperatura, antitérmico, infecção, viral
+RISCO: medio

@@ -1,0 +1,28 @@
+PROTOCOLO CLÍNICO CARE PLUS — DOR TORÁCICA
+ID: proto_dor_peito
+Classificação: VERMELHO — Emergência Potencial
+
+SINTOMAS DE ALERTA (encaminhar imediatamente para PS):
+- Dor precordial com irradiação para braço esquerdo, mandíbula ou costas
+- Dor associada a sudorese fria, náusea e vômito
+- Dor em repouso com duração > 20 minutos
+- Síncope ou pré-síncope associada
+
+CONDUTA INICIAL:
+1. Avaliar sinais vitais imediatamente
+2. ECG em até 10 minutos se disponível
+3. Acesso venoso periférico
+4. O2 suplementar se SatO2 < 94%
+5. Notificar médico plantonista imediatamente
+
+DIAGNÓSTICOS DIFERENCIAIS:
+- Síndrome Coronariana Aguda (IAM, Angina Instável)
+- Tromboembolismo Pulmonar
+- Dissecção Aórtica
+- Pneumotórax Espontâneo
+- Costocondrite (causa musculoesquelética — menor urgência)
+
+RECOMENDAÇÃO AO PACIENTE: Ligar SAMU 192 ou ir ao PS imediatamente.
+
+TAGS: dor, peito, torácica, cardíaco, emergência, IAM
+RISCO: alto
