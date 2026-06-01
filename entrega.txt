@@ -6,9 +6,8 @@ Sofia Fernandes de Lima Oliveira - RM: 567824
 
 Repositório GitHub (Sprint 4):
 
-
-Vídeo demonstrativo (YouTube - não listado):
-[PREENCHER APÓS GRAVAR O VÍDEO]
+Vídeo demonstrativo:
+https://youtu.be/Kpb7pMcr9YE
 
 Relatório técnico:
 docs/relatorio_final.md
